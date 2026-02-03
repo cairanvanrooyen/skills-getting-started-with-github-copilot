@@ -13,7 +13,8 @@
         "src.app:app",
         "--reload"
       ],
-      "jinja": true
+      "jinja": true,
+      "python": "${workspaceFolder}/venv/bin/python"
     }
   ]
 }
